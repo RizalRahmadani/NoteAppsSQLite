@@ -2,7 +2,6 @@ package com.rzl.mycontact.db;
 
 import static android.provider.UserDictionary.Words._ID;
 import static com.rzl.mycontact.db.DatabaseContract.NoteColumns.TABLE_NAME;
-
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;

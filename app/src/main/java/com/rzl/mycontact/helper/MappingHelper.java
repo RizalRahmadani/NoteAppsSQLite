@@ -1,7 +1,6 @@
 package com.rzl.mycontact.helper;
 
 import android.database.Cursor;
-
 import com.rzl.mycontact.db.DatabaseContract;
 import com.rzl.mycontact.entity.Note;
 
